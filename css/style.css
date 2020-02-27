@@ -2451,6 +2451,28 @@ h6 {
     color: #fff;
     border: none; }
 
+.white_bg_btn1 {
+  display: inline-block;
+  background: #ffffff;
+  padding: 0px 35px;
+  color: #222222;
+  font-family: "Roboto", sans-serif;
+  font-size: 13px;
+  font-weight: 500;
+  line-height: 34px;
+  border-radius: 0px;
+  outline: none !important;
+  box-shadow: none !important;
+  text-align: center;
+  cursor: pointer;
+  transition: all 300ms linear 0s; }
+  .white_bg_btn1:hover {
+    background-image: -moz-linear-gradient(0deg, #0072ff 0%, #00c6ff 100%);
+    background-image: -webkit-linear-gradient(0deg, #0072ff 0%, #00c6ff 100%);
+    background-image: -ms-linear-gradient(0deg, #0072ff 0%, #00c6ff 100%);
+    color: #ffffff;
+    border: none; }
+
 .black_btn {
   padding: 0px 44px;
   line-height: 50px;
